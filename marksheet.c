@@ -34,3 +34,4 @@ printf("\n Total_Marks: %d",total);
 printf("\n Average: %d",average);
 getch();
 }
+
